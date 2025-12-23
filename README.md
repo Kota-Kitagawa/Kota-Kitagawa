@@ -20,8 +20,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/Kota-Kitagawa/Kota-Kitagawa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/Kota-Kitagawa/Kota-Kitagawa/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kota-Kitagawa&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kota-Kitagawa&theme=tokyonight&show_icons=true" />
 </div>
 
 
